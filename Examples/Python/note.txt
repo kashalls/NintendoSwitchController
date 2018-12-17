@@ -1,0 +1,3 @@
+I used pyserial instead of the serial library for python.
+
+https://pythonhosted.org/pyserial/

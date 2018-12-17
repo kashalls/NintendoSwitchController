@@ -1,0 +1,23 @@
+{
+  "name": "switchcontroller-nodejs",
+  "version": "1.0.0",
+  "description": "A Example NodeJS library for the Switch-Controller project",
+  "main": "index.js",
+  "dependencies": {
+    "serialport": "^7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kashalls/Switch-Controller.git"
+  },
+  "author": "Jordan Jones <kashalldev@gmail.com> (Kashalls/GitHub)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kashalls/Switch-Controller/issues"
+  },
+  "homepage": "https://github.com/Kashalls/Switch-Controller#readme"
+}
