@@ -17,16 +17,19 @@ I accomplished this using a few Amazon purchases minus the fact I had previously
 3. Any Micro USB Cable that has Power, Ground and Data Lines.
 
 # Requisites
-> Since this project is based off of the Switch-Fightstick example, most of this process is the same all around the boards using the LUFA Library.
+Since this project is based off of the Switch-Fightstick example, most of this process is the same all around the boards using the LUFA Library.
 
 > **Windows Users!**
 You will need the [latest AVR toolchain](http://www.atmel.com/tools/atmelavrtoolchainforwindows.aspx) from the Atmel site.
+
 
 > **Linux Users! (or Windows Users using the Linux Subsystem)**
 You will need to run this command if you are running Ubuntu 8+ or your respective package manager's command!
 ```
 sudo apt-get install gcc-avr binutils-avr avr-libc
 ```
+
+
 > **Mac Users!**
 You will need to find the AVR CrossPack or try to install avr-gcc with brew or try adding the [osx-cross/avr](https://github.com/shinyquagsire23/Switch-Fightstick/blob/master/osx-cross/avr) repository.
 
