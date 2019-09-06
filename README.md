@@ -49,7 +49,7 @@ If you are using a Arduino Leonardo Board with a ATMega32U4 or related chip, fol
 
 * Go ahead and clone this git library.
 
-* Grab the UART Example Library (Version 1.1) from [here](https://www.pjrc.com/teensy/uart.html). Place the two files uart.h and uart.c in the main directory of this project.
+* (Already Included in This Repo) Grab the UART Example Library (Version 1.1) from [here](https://www.pjrc.com/teensy/uart.html). Place the two files uart.h and uart.c in the main directory of this project.
 
 * Grab the LUFA Library at the bottom of [this page](http://www.fourwalledcubicle.com/LUFA.php)
 ![LUFA Library Download Location](https://awau.moe/3be913.png)
