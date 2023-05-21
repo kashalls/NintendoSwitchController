@@ -4,7 +4,7 @@
   "description": "A Example NodeJS library for the Switch-Controller project",
   "main": "index.js",
   "dependencies": {
-    "serialport": "^10.0.0"
+    "serialport": "^11.0.0"
   },
   "devDependencies": {},
   "scripts": {
